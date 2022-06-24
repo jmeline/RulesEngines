@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuleEngines.Tests", "RuleEngines.Tests\RuleEngines.Tests.csproj", "{3AF7DF48-CF42-4B06-BDE8-A66177814C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.RulesEngine.Example", "Microsoft.RulesEngine.Example\Microsoft.RulesEngine.Example.csproj", "{A4E1B08A-206B-4138-B9DB-2CBD0052A2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRules.Example", "NRules.Example\NRules.Example.csproj", "{FD383F2A-39B4-44D2-941F-62839D1306EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF7DF48-CF42-4B06-BDE8-A66177814C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF7DF48-CF42-4B06-BDE8-A66177814C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF7DF48-CF42-4B06-BDE8-A66177814C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF7DF48-CF42-4B06-BDE8-A66177814C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E1B08A-206B-4138-B9DB-2CBD0052A2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E1B08A-206B-4138-B9DB-2CBD0052A2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E1B08A-206B-4138-B9DB-2CBD0052A2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E1B08A-206B-4138-B9DB-2CBD0052A2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD383F2A-39B4-44D2-941F-62839D1306EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD383F2A-39B4-44D2-941F-62839D1306EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD383F2A-39B4-44D2-941F-62839D1306EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD383F2A-39B4-44D2-941F-62839D1306EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
